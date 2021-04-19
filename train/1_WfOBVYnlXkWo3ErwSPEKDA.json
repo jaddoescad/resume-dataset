@@ -7,15 +7,23 @@
       "points": [
         [
           84.5,
-          149.5
+          152.0
         ],
         [
-          1232.0,
+          1224.5,
+          172.0
+        ],
+        [
+          1219.5,
           334.5
+        ],
+        [
+          74.5,
+          329.5
         ]
       ],
       "group_id": null,
-      "shape_type": "rectangle",
+      "shape_type": "polygon",
       "flags": {}
     }
   ],
